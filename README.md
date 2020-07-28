@@ -8,3 +8,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 deployment text
+
+## Deployment - staged
+deployment text in staging
+
+## Deployment - local working directory
+deployment text in our local working directory
