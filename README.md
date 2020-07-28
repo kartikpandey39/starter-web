@@ -14,3 +14,6 @@ deployment text in staging
 
 ## Deployment - local working directory
 deployment text in our local working directory
+
+## Copyright
+Copyright 2020 kp39 
