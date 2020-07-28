@@ -17,3 +17,6 @@ deployment text in our local working directory
 
 ## Copyright
 Copyright 2020 kp39 
+
+## Contribute
+You can contribute on this repo as required 
